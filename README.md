@@ -1,2 +1,2 @@
 # foto-noticia-1
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/c015127f-7d96-444f-9b13-9ca210a0436c" />
+file:///C:/Users/aragao/Downloads/c15dfe93-a6e1-444f-bd45-f51fa9669e00%20(1).jpg
